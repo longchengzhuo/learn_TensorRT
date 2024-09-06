@@ -1,2 +1,1 @@
-# Why-does-the-inference-result-of-TensorRT-differ-based-on-the-startup-method-
-探究tensorrt的正确启动方式
+# 学习trt的第一步，先探究这两种为何推理结果不同，使用polygraph工具
